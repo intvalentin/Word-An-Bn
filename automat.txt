@@ -1,0 +1,11 @@
+q4
+q0- -r-q1
+q1-y-r-q1
+q1-a-x-r-q2
+q1- -l-q4
+q2-a-r-q2
+q2-y-r-q2
+q2-b-y-l-q3
+q3-a-l-q3
+q3-y-l-q3
+q3-x-r-q1
